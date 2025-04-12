@@ -3,8 +3,6 @@
 Welcome to the **Titanic Survival Analysis and Prediction** project!  
 This project explores and models the survival of Titanic passengers using a real-world dataset, demonstrating data analysis, visualization, and predictive modeling skills.
 
-![Titanic Banner](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 ---
 
 ## 🧠 Project Objective
